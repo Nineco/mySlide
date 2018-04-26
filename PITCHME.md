@@ -9,6 +9,18 @@
 +++
 # ２枚目③
 
+<table style="border:1px dashed #639;">
+    <tr style="border:1px dashed #639;">
+        <td style="border:1px dashed #639;">A</td>
+        <td style="border:1px dashed #639;">B</td>
+        <td style="border:1px dashed #639;">C</td>
+    </tr>
+    <tr style="border:1px dashed #639;">
+        <td style="border:1px dashed #639;">1</td>
+        <td style="border:1px dashed #639;">2</td>
+        <td style="border:1px dashed #639;">3</td>
+    </tr>
+</table>
 ---
 ### ３枚目のスライド①
 +++
@@ -32,18 +44,6 @@
     2017, 28, 48, 40, 19, 86, 27, 90
 </canvas>
 
-<table style="border:1px dashed #639;">
-    <tr>
-        <td>A</td>
-        <td>B</td>
-        <td>C</td>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>2</td>
-        <td>3</td>
-    </tr>
-</table>
 
 ---
 ### END
