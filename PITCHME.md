@@ -1,4 +1,4 @@
-# My Slide Sample
+# <p style="color:#ffcc00;">My Slide Sample</p>
 
 はじまりはじまり
 
