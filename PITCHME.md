@@ -3,11 +3,11 @@
 はじまりはじまり
 
 ---
-### ２枚目のスライド
+### ２枚目のスライドですよ
 +++
-## ２枚目②
+## ↓↓↓↓↓
 +++
-# ２枚目③
+# 表も組めます
 
 <table style="border:1px dashed #F39;">
     <tr style="border:1px dashed #F39;">
@@ -35,12 +35,12 @@
 ← 横にもいけるよ →
 ---
 
-### ４枚目のスライド
+# クリックすると…
 - <h3 style="color:#f30;">ちょっとずつ</h3> |
 - <h2 style="color:#f60;">順番に</h2> |
 - <h1 style="color:#f90;">表示する</h1> |
 ---
-### グラフやチャートの表示
+使わないけどグラフもあった。
 
 <canvas data-chart="radar" style="background-color:#ccc;">
     Month, 1月, 2月, 3月, 4月, 5月, 6月, 7月
@@ -50,7 +50,10 @@
 
 
 ---
+動画はまだよくつかめず。。
 <iframe src="https://player.vimeo.com/video/23758357" style="width:100%; height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
 </iframe>
 <script src="https://player.vimeo.com/api/player.js"></script>
 
+---
+## END
