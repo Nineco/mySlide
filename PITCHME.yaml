@@ -5,16 +5,13 @@ theme : moon
 logo : nineco.png
 
 #フットノートの設定
-footnote : "© 2018 aki Inc."
+footnote : "© 2018 ak Inc."
 
 #スライドのページ数表示の設定
 slide-number: true
 
 #コードのシンタックスハイライトの設定
 highlight : monokai
-
-#スライド自動再生の設定
-autoslide : 5000
 
 #スライドのループ設定
 loop : true
