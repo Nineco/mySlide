@@ -2,10 +2,10 @@
 theme : sky
 
 #ロゴアイコンの設定
-logo : logo.png
+logo : nineco.png
 
 #フットノートの設定
-footnote : "© 2017 sample Inc."
+footnote : "© 2018 aki Inc."
 
 #スライドのページ数表示の設定
 slide-number: true
